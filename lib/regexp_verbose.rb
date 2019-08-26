@@ -1,3 +1,4 @@
+require "regexp_verbose/ext/regexp"
 require "regexp_verbose/version"
 
 module RegexpVerbose
